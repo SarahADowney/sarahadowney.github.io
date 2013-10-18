@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="/sarah.css">
+<html>
+<head>
+	<title>Brand &amp; Positioning Pre-Work</title>
+	<style>
+
+	  .centeredImage
+	    {
+	    text-align:center;
+	    margin-top:0px;
+	    margin-bottom:0px;
+	    padding:0px;
+	    border-image: 2px gray;
+	    }
+    </style>
+</head>
+<body>
+	<h1>Customer segmentation pre-work</h1>
+	<table border="1px black";>
+		<h2>Startup of choice: Philo</h2>
+		<br>
+		<div class="centeredImage"><img src="http://b.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2013/10/3016113-inline-i-1-philo-preview-site.jpg"></div>
+
+	<p><strong>Description:</strong> Philo offers on-demand Internet TV across mobile and web platforms. Unlike the traditional bundled cable model where viewers get channels and shows they don't want at times that are often inconvenient, Philo lets viewers pick what and when to watch, including live TV and DVR.</p>
+	
+	<p>Based in Cambridge, Philo (formerly named Tivli) received $6.3M in Series A funding in July 2013. Their rollout strategy targets students at select US colleges and universities.</p>
+	
+	<p><strong>Positioning statement 1:</strong> For students on the go, Philo provides on-demand shows on their schedules and devices.
+
+	<p><strong>Positioning statement 2:</strong> For university administrators balancing campus resources and student enjoyment, Philo provides smart entertainment that makes the most of your existing network.
+
+	<p><strong>Positioning statement 3:</strong> For MVPDs who want to expand their Internet market, Philo provides innovative distribution that young consumers love.
+
+	<p><strong>Positioning statement 4:</strong> For web video content providers looking for greater reach, Philo makes your content available to college networks without copyright hassles.
