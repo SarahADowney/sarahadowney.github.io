@@ -86,7 +86,7 @@ img#avatar {
 
 #right-sidebar {
 	float: right;
-	width: 35%;
+	width: 20%;
 	float: right;
 	margin: 0em 3em 0em 3em;
 }
@@ -96,6 +96,9 @@ img#avatar {
 }
 
 /* Footer */
+footer {
+	clear:both;
+}
 
 #footerImage {
 	background-image: url("https://sarahadowney.com/wp-content/uploads/2013/10/01.jpg");
