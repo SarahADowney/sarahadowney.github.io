@@ -11,46 +11,39 @@ website: https://sarahadowney.com
 
 /* -----------------------------------------------------------
 CONTENTS:
-=Resets & General
-=Links
 =Header
-=Wrapper
-=Main Content
-=Lists
 =Navigation
-=Comments
+=Links
+=Main Content
+=Images
+=Lists
 =Aside
 =Footer
 ------------------------------------------------------------*/
+/* Header */
 
-img#avatar {
-	max-width: 20%;
-	border: none;
-	border-radius: 60%;
-	margin-left: 2em;
-	margin-right: 2em;
-	float: left;
-}
+/* Navigation */
 
-#brocade {
-	float: bottom;
-	background-image: repeat-x;
-}
+/* Links */
 
 a {
 	text-decoration: none;
 	color: gray;
 }
 
+/* Main Content */
+
 body {
 	font-family: "Book Antiqua", Palatino, serif;
-	padding-top: 50px;
-}
-
+	padding-top: 2em;
 }
 
 h1 {
 	text-align: center;
+}
+
+h2 {
+
 }
 
 h3 {
@@ -65,10 +58,43 @@ p {
 	max-width: 50em;
 }
 
+#container {
+	margin: auto;
+	max-width: 65%;
+	width: 60%;
+	float: left;
+}
+
+#right-sidebar {
+	float: right;
+	width: 35%;
+	float: right;
+}
+/* Images */
+
+img#avatar {
+	max-width: 15em;
+	border: none;
+	border-radius: 10em;
+	margin: 2em 2em 2em 2em;
+	float: left;
+}
+
+#brocade {
+	float: bottom;
+	background-image: repeat-x;
+}
+
+/* Lists */
+
+/* Aside */
+
+/* Footer */
+
 #footerImage {
 	background-image: url("https://sarahadowney.com/wp-content/uploads/2013/10/01.jpg");
 	background-repeat: repeat-x; 
-	height: 400px;
+	height: 50em;
 	width: 100%;
-	margin: 160px 0px 0px 0px;
+	margin: 7em 0em 0em 0em;
 }
