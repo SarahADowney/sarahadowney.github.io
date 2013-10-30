@@ -1,0 +1,74 @@
+/* --------------------------------------------------------
+Style Sheet for SarahADowney.com
+
+Version: 1.0
+Last modified: 10.30.2013 by Sarah
+author: Sarah A. Downey
+email: sarah@sarahadowney.com
+twitter: @SarahADowney
+website: https://sarahadowney.com
+----------------------------------------------------------*/
+
+/* -----------------------------------------------------------
+CONTENTS:
+=Resets & General
+=Links
+=Header
+=Wrapper
+=Main Content
+=Lists
+=Navigation
+=Comments
+=Aside
+=Footer
+------------------------------------------------------------*/
+
+img#avatar {
+	max-width: 20%;
+	border: none;
+	border-radius: 60%;
+	margin-left: 2em;
+	margin-right: 2em;
+	float: left;
+}
+
+#brocade {
+	float: bottom;
+	background-image: repeat-x;
+}
+
+a {
+	text-decoration: none;
+	color: gray;
+}
+
+body {
+	font-family: "Book Antiqua", Palatino, serif;
+	padding-top: 50px;
+}
+
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	font-variant: small-caps;
+	font-size: 10;
+}
+
+p {
+	line-height: 1.5em;
+	margin-bottom: 1em;
+	margin-left: 20em;
+	max-width: 50em;
+}
+
+#footerImage {
+	background-image: url("https://sarahadowney.com/wp-content/uploads/2013/10/01.jpg");
+	background-repeat: repeat-x; 
+	height: 400px;
+	width: 100%;
+	margin: 160px 0px 0px 0px;
+}
