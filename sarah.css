@@ -58,11 +58,12 @@ p {
 	max-width: 50em;
 }
 
-#container {
-	margin: auto;
-	max-width: 65%;
-	width: 60%;
-	float: left;
+section {
+	width:60%;
+}
+
+aside {
+	width:35%;
 }
 
 /* Images */
