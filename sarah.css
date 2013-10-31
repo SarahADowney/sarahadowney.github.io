@@ -52,18 +52,22 @@ h3 {
 }
 
 p {
-	line-height: 1.5em;
-	margin-bottom: 1em;
-	margin-left: 20em;
-	max-width: 50em;
+	line-height: 23px;
+	margin-bottom: 10px;
+	margin-left: 20px;
 }
 
 section {
 	width:60%;
+	float:left;
 }
 
 aside {
 	width:35%;
+	float:right;
+}
+
+#container {
 }
 
 /* Images */
@@ -86,9 +90,6 @@ img#avatar {
 /* Aside */
 
 #right-sidebar {
-	float: right;
-	width: 20%;
-	float: right;
 	margin: 0em 3em 0em 3em;
 }
 
